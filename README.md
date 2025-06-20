@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student at UPN "Veteran" East Java in the Informatics Study Program, I focus on Front-end Web Developer and I am also studying about mobile developer and I'm still an keep going progressing
+I am a student at UPN "Veteran" East Java in the Informatics Study Program, I focus on Front-end Web Developer and I am also studying about Back-end developer and I'm still an keep going progressing
 
 
 ## 🌐 Socials:
